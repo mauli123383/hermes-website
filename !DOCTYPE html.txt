@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Untitled Document</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<style type="text/css">
+	body {
+    margin-left: 0px;
+    margin-right: 20px;
+}
+    </style>
+  </head>
+  <body>
+	  
+  <table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="46%">&nbsp;</td>
+      <td width="14%"><img src="t_hermes-paris-black4015.logowik.jpeg" width="140" height="auto" alt=""/></td>
+      <td width="34%">&nbsp;</td>
+      <td width="2%"><img src="root folder hermes/add-to-basket.png" width="100%" height="auto" alt=""/></td>
+      <td width="2%"><img src="root folder hermes/noun-user-2518365.png" width="100%" height="auto" alt=""/></td>
+      <td width="2%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+	  <table width="101%" border="0" cellpadding="1" cellspacing="2">
+  <tbody>
+    <tr>
+      <td width="4%" height="38">&nbsp;</td>
+      <td width="6%" style="font-size: small; text-align: center;">WOMEN</td>
+      <td width="4%" style="font-size: small; text-align: center;">MEN</td>
+      <td width="18%" style="font-size: small; text-align: center;">HOME, OUTDOOR &amp; EQUESTRIAN</td>
+      <td width="14%" style="text-align: center">JEWELRY AND WATCHES</td>
+      <td width="15%" style="text-align: center">FRAGRANCES AND MAKEUP</td>
+      <td width="11%" style="font-size: small; text-align: center;">GIFTS AND PETITH</td>
+      <td width="17%" style="font-size: small; text-align: center;">SPECIAL EDITIONS AND SERVICES</td>
+      
+      <td width="10%" style="font-weight: 400; text-align: center;">ABOUT HERMES</td>
+      <td width="1%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+  <table width="100%" border="auto">
+	    <tbody>
+	      <tr>
+	        
+          </tr>
+        </tbody>
+  </table>
+
+  <!-- body code goes here -->
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+  <img src="../OneDrive/Pictures/Screenshots/Screenshot 2025-05-04 164040.png" alt="" width="100%" height="auto" class="img-fluid"/><script src="js/jquery-3.4.1.min.js"></script>
+	<table width="100%" border="0">
+	  <tbody>
+	    <tr>
+	      <td height="47">&nbsp;</td>
+        </tr>
+      </tbody>
+  </table>
+
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="220">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204018.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204030.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204038.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204046.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="10%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table width="100%" border="0" cellpadding="4">
+  <tbody>
+    <tr>
+     
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="35">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">WOMEN'S SILK</td>
+      <td width="10%">&nbsp;</td>
+      <td width="12%" style="font-size: x-small">WOMEN'S SHOES</td>
+      <td width="9%">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">TABLEWARE</td>
+      <td width="10%">&nbsp;</td>
+      <td width="14%" style="font-size: x-small">FASHION JEWELERY</td>
+      <td width="12%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+	  <table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="220">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204056.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204102.png" width="100%" height="auto" alt=""/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204108.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 204119.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="10%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table width="100%" border="0" cellpadding="4">
+  <tbody>
+    <tr>
+     
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="35">&nbsp;</td>
+      <td width="15%" style="font-size: x-small">WOMEN'S READY TO WEAR</td>
+      <td width="6%">&nbsp;</td>
+      <td width="14%" style="font-size: x-small">SMALL LEATHER GOODS</td>
+      <td width="7%">&nbsp;</td>
+      <td width="12%" style="font-size: x-small">HAIR ACCESSORIES</td>
+      <td width="9%">&nbsp;</td>
+      <td width="12%" style="font-size: x-small">MENS SHOES</td>
+      <td width="14%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td height="74">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td height="80">&nbsp;</td>
+      <td style="text-align: center; font-size: xx-large;">RISE IN STYLE</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0" cellspacing="7">
+  <tbody>
+    <tr>
+      <td width="19%" height="93">&nbsp;</td>
+      <td width="62%" style="text-align: center; font-size: medium;">Atop the ladder of relaxation, the sandal reigns supreme. Contemporary and light, it exudes effortless elegance, convinced that no other shoe can match its stride.</td>
+      <td width="19%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0" cellspacing="7">
+  <tbody>
+    <tr>
+      <td height="41">&nbsp;</td>
+      <td style="text-align: center; font-size: x-small; font-style: inherit; text-decoration: underline;">AIM FOR ELEGANCE</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="364">&nbsp;</td>
+      <td width="79%"><img src="root folder hermes/Screenshot 2025-05-04 222359.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="10%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td height="102">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+	  <table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="220">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 223154.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 223126.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 223116.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 223052.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="10%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table width="100%" border="0" cellpadding="4">
+  <tbody>
+    <tr>
+     
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="35">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">Bouncing Sneakers</td>
+      <td width="10%">&nbsp;</td>
+      <td width="12%" style="font-size: x-small">Trip espadrille</td>
+      <td width="9%">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">Junior sandal</td>
+      <td width="10%">&nbsp;</td>
+      <td width="14%" style="font-size: x-small">Paris loafer</td>
+      <td width="12%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+  <table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="35">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">$1,125</td>
+      <td width="10%">&nbsp;</td>
+      <td width="12%" style="font-size: x-small">$840</td>
+      <td width="9%">&nbsp;</td>
+      <td width="11%" style="font-size: x-small; border-top-left-radius: 59px;">$1,025</td>
+      <td width="10%">&nbsp;</td>
+      <td width="14%" style="font-size: x-small">$1,300</td>
+      <td width="12%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+	  </table>
+  <table width="100%" border="0">
+        <tbody>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody>
+  </table>
+  <p>&nbsp;</p>
+  <table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td height="80">&nbsp;</td>
+      <td style="text-align: center; font-size: xx-large;">AN ODE TO AUDACITY</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0" cellspacing="7">
+  <tbody>
+    <tr>
+      <td width="19%" height="93">&nbsp;</td>
+      <td width="62%" style="text-align: center; font-size: medium;">The H of Hermès takes hold of the wrist, daring it with a bold challenge: to make every gesture a new confession of audacity. All jewelry is allowed, as long as brilliance prevails.</td>
+      <td width="19%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0" cellspacing="7">
+  <tbody>
+    <tr>
+      <td height="41">&nbsp;</td>
+      <td style="text-align: center; font-size: x-small; font-style: inherit; text-decoration: underline;">ADORN YOURSELF</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="364">&nbsp;</td>
+      <td width="79%"><img src="root folder hermes/Screenshot 2025-05-04 224429.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="10%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td height="102">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+	  <table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="220">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 224456.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 224503.png" width="100%" height="auto" alt=""/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 224512.png" alt="" width="100%" height="auto" class="img-fluid"/></td>
+      <td width="5%">&nbsp;</td>
+      <td width="16%"><img src="root folder hermes/Screenshot 2025-05-04 224526.png" width="100%" height="auto" alt=""/></td>
+      <td width="10%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table width="100%" border="0" cellpadding="4">
+  <tbody>
+    <tr>
+     
+    </tr>
+  </tbody>
+</table>
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="35">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">Athena Bracelet</td>
+      <td width="10%">&nbsp;</td>
+      <td width="12%" style="font-size: x-small">Mini mailleon earrings</td>
+      <td width="9%">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">Athena simple stud ring</td>
+      <td width="10%">&nbsp;</td>
+      <td width="14%" style="font-size: x-small">Mini pop H pendant</td>
+      <td width="12%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+  <table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="11%" height="35">&nbsp;</td>
+      <td width="11%" style="font-size: x-small">$870</td>
+      <td width="10%">&nbsp;</td>
+      <td width="12%" style="font-size: x-small">$740</td>
+      <td width="9%">&nbsp;</td>
+      <td width="11%" style="font-size: x-small; border-top-left-radius: 59px;">$370</td>
+      <td width="10%">&nbsp;</td>
+      <td width="14%" style="font-size: x-small">$490</td>
+      <td width="12%">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+	  <table width="100%" border="0">
+	    <tbody>
+	      <tr>
+	        <td height="94">&nbsp;</td>
+          </tr>
+        </tbody>
+  </table>
+	  <table width="100%" border="0">
+	    <tbody>
+	      <tr>
+	        <td width="25%" style="font-size: medium">SERVICES+</td>
+	        <td width="25%">ORDERS+</td>
+	        <td width="27%">LA MAISON HERMES+</td>
+	        <td width="23%">LEGAL+</td>
+          </tr>
+        </tbody>
+  </table>
+	  <table width="100%" border="0">
+	    <tbody>
+	      <tr>
+	        <td>&nbsp;</td>
+          </tr>
+        </tbody>
+  </table>
+	  <table width="100%" border="0">
+	    <tbody>
+	      <tr>
+	        <td width="31%" style="font-size: 14px">CUS<span style="font-size: 14px">TOMER SERVICES</span></td>
+	        <td width="46%" style="text-align: center">NEWSLETTER</td>
+	        <td width="23%">FOLLOW</td>
+          </tr>
+        </tbody>
+  </table>
+	  <table width="100%" border="0">
+	    <tbody>
+	      <tr>
+	        <td width="39%" style="font-size: x-small">Monday to Friday 9am - 9pm EST, Saturday 10am - 9pm EST :</td>
+	        <td width="32%" style="text-align: center; font-size: x-small;">Receive our newsletter and discover our stories, collections, and surprises.</td>
+	        <td width="8%">&nbsp;</td>
+	        <td width="2%"><img src="root folder hermes/instagram-logo-instagram-icon-transparent-free-png.png" width="100%" height="auto" alt=""/></td>
+	        <td width="2%"><img src="root folder hermes/Facebook-Logo-Black-And-White-Transparent-Images.png" width="119%" height="auto" alt=""/></td>
+	        <td width="2%"><img src="root folder hermes/c8d3d4d12a8ea35b58e35de9ec820a22.jpg" width="121%" height="auto" alt=""/></td>
+	        <td width="2%">&nbsp;</td>
+	        <td width="3%">&nbsp;</td>
+	        <td width="10%">&nbsp;</td>
+          </tr>
+        </tbody>
+  </table>
+	  <table width="100%" border="0">
+	    <tbody>
+	      <tr>
+	        <td width="38%" style="font-size: x-small">800-411-5678</td>
+	        <td width="32%" style="text-align: center; font-size: x-small;">SUBSCRIBE</td>
+	        <td width="30%">&nbsp;</td>
+          </tr>
+        </tbody>
+  </table>
+<div class="container"></div>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+  <script src="js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
